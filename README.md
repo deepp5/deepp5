@@ -1,11 +1,11 @@
 ## Hi there I'm Deep👋
 
 # 💫 About Me:
-🔭 I’m currently working on: AI-powered web apps + performance-focused backend systems<br>
-👯 I’m looking to collaborate on: Full-stack + AI/ML projects with real users and measurable impact<br>
-🤝 I’m looking for help with: Open-source contributions + scalable system design patterns<br>
-🌱 I’m currently learning: ML foundations, vector search, and deployment best practices<br>
-⚡ Fun fact: I treat the gym like debugging small reps, big gains and play pickleball, and dance energy stays high 
+I’m currently working on: AI-powered web apps + performance-focused backend systems<br>
+I’m looking to collaborate on: Full-stack + AI/ML projects with real users and measurable impact<br>
+I’m looking for help with: Open-source contributions + scalable system design patterns<br>
+I’m currently learning: ML foundations, vector search, and deployment best practices<br>
+Fun fact: I treat the gym like debugging small reps, big gains and play pickleball, and dance energy stays high 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeppatel5) 
