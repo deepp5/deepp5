@@ -1,6 +1,4 @@
 ## Hi there I'm Deep👋
-
-# 💫 About Me:
 I’m currently working on: AI-powered web apps + performance-focused backend systems<br>
 I’m looking to collaborate on: Full-stack + AI/ML projects with real users and measurable impact<br>
 I’m looking for help with: Open-source contributions + scalable system design patterns<br>
