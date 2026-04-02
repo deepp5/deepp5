@@ -5,7 +5,7 @@ I’m looking for help with: Open-source contributions + scalable system design 
 I’m currently learning: ML foundations, vector search, and deployment best practices<br>
 Fun fact: I treat the gym like debugging small reps, big gains and play pickleball, and dance energy stays high 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
